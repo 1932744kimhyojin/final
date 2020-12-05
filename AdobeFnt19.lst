@@ -1,0 +1,34 @@
+%!Adobe-FontList 1.19
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMyungjoStd-Medium
+FamilyName:Adobe Myungjo Std
+StyleName:M
+FullName:Adobe Myungjo Std M
+MenuName:Adobe 명조 Std M
+StyleBits:0
+FamilyNameNative:Adobe 명조 Std
+StyleNameNative:M
+FullNameNative:Adobe 명조 Std M
+WritingScript:Korean
+OutlineFileName:C:\Users\Kim HJ\Desktop\선녀와 나무꾼 매거진\Document fonts\AdobeMyungjoStd-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4103504
+FileModTime:1507040610
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Myungjo Std M
+NameArray:3,Mac,4,Adobe 명조 Std M
+NameArray:0,Win,1,Adobe Myungjo Std M
+NameArray:0,Win,16,Adobe Myungjo Std
+NameArray:3,Win,1,Adobe 명조 Std M
+NameArray:3,Win,16,Adobe 명조 Std
+%EndFont
+
